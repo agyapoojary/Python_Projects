@@ -1,0 +1,6 @@
+# Ignore zip files and common Python artifacts
+myzip.zip
+*.pyc
+__pycache__/
+.vscode/
+.DS_Store
